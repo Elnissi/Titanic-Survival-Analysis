@@ -1,4 +1,4 @@
-# 🚢 Titanic Survival Analysis
+# Titanic Survival Analysis
 
 ## Overview
 This project performs an end-to-end exploratory data analysis (EDA) on the Titanic passenger dataset to understand what factors influenced a passenger's likelihood of survival. Through data cleaning, statistical analysis, and visualisation, the project uncovers how gender, passenger class, age, fare, and embarkation port each played a role in determining who survived the disaster.
@@ -82,8 +82,3 @@ titanic-survival-analysis/
 ## Conclusion
 The Titanic disaster was not random. Survival was strongly shaped by socioeconomic status, gender, and age. The "women and children first" evacuation protocol is clearly visible in the data, as is the structural advantage held by first-class passengers who had better lifeboat access and cabin locations. This project demonstrates how Python-based EDA can extract meaningful, human insights from historical data.
 
-## Author
-**Elnissi Williams**
-Data Analyst | Python · SQL · Power BI · Tableau
-📧 elnissiwilly04@gmail.com
-📁 [GitHub Portfolio](https://github.com/elnissiwilliams)
