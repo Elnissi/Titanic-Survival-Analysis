@@ -1,4 +1,4 @@
-itanic Survival Analysis
+Titanic Survival Analysis
 Overview
 
 This project performs an end-to-end exploratory data analysis (EDA) on the Titanic passenger dataset to understand what factors influenced a passenger's likelihood of survival. Through data cleaning, statistical analysis, and visualisation, the project uncovers how gender, passenger class, age, fare, and embarkation port each played a role in determining who survived the disaster.
