@@ -80,7 +80,7 @@ titanic-survival-analysis/
 | **Class × Gender** | 1st class females: ~97% survival · 3rd class males: ~16% survival |
 
 ## Conclusion
-The Titanic disaster was not random — survival was strongly shaped by socioeconomic status, gender, and age. The "women and children first" evacuation protocol is clearly visible in the data, as is the structural advantage held by first-class passengers who had better lifeboat access and cabin locations. This project demonstrates how Python-based EDA can extract meaningful, human insights from historical data.
+The Titanic disaster was not random. Survival was strongly shaped by socioeconomic status, gender, and age. The "women and children first" evacuation protocol is clearly visible in the data, as is the structural advantage held by first-class passengers who had better lifeboat access and cabin locations. This project demonstrates how Python-based EDA can extract meaningful, human insights from historical data.
 
 ## Author
 **Elnissi Williams**
